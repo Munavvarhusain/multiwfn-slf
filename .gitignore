@@ -1,0 +1,62 @@
+# ===== build artifacts ====================================================
+*.o
+*.mod
+*.smod
+*.a
+*.so
+Multiwfn
+Multiwfn_noGUI
+
+
+# ===== editor / working copies ============================================
+*goodcopy
+*.bak
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# ===== Multiwfn run output ================================================
+CPs.txt
+CPs.pdb
+CPSslf.txt
+CPSlol.txt
+paths.txt
+paths.pdb
+packets.xyz
+cps_format.xyz
+surpaths.txt
+basin*.txt
+output.txt
+nohup.out
+fort.*
+core.*
+
+# ===== quantum chemistry input/output =====================================
+*.chk
+*.fch
+*.fchk
+*.wfn
+*.wfx
+*.molden
+*.log
+*.out
+*.rwf
+*.d2e
+*.int
+*.skr
+*.cub
+*.cube
+*.chg
+*.pqr
+
+# ===== plotting / scratch =================================================
+*.dat
+*.png
+*.eps
+
+# ===== large bundled documents ============================================
+# the manual is downloadable from the Multiwfn website
+Multiwfn_*.pdf
+
