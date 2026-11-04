@@ -8,7 +8,9 @@ This code accompanies:
 
 > M\. Husain and T. Korona, *The Stress Localization Function — a
 > Stress-Derived Real-Space Descriptor for Chemical Bonding Analysis*
-> (Accepted - Journal of Chemical Theory and Computation).
+> J. Chem. Theory Comput. 2026; https://doi.org/10.1021/acs.jctc.6c01648
+
+
 
 ---
 
