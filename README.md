@@ -213,9 +213,12 @@ in the main text of any work using this code.
   author  = {Husain, Munavvar and Korona, Tatiana},
   title   = {The Stress Localization Function — a Stress-Derived Real-Space
              Descriptor for Chemical Bonding Analysis},
-  journal = {accepted - Journal of Chemical Theory and Computation},
-  year    = {2026}
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2026},
+  month = {11},
+  doi = {10.1021/acs.jctc.6c01648}
 }
+
 ```
 
 ## Contact
